@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Cuprum:400,700|Roboto+Slab:300,700');
+
+body
+{
+    margin: 50px;
+    color: #666;
+    font-family:  'Roboto Slab', sans-serif;
+    font-size: 16px;
+}
+
+h1,h2
+{
+    font-family:  'Cuprun', serif;
+}
